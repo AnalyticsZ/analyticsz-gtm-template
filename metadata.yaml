@@ -1,5 +1,5 @@
 homepage: "https://analyticsz.com"
 documentation: "https://analyticsz.com/developers/integrations/google-tag-manager"
 versions:
-  - sha: REPLACE_WITH_TEMPLATE_COMMIT_SHA
-    changeNotes: Production-ready AnalyticsZ Browser Tracking Tag version 1.2.0 with strict token validation and version reporting.
+  - sha: 9fa504edff33705d477b58197ad4dcf1ebe7a5b1
+    changeNotes: Initial public release of the AnalyticsZ Browser Tracking Tag.
