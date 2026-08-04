@@ -37,7 +37,7 @@ https://analyticsz.com/integrations/google-tag-manager/loader.js*
 
 ## Support
 
-- Documentation: https://analyticsz.com/developers/integrations/google-tag-manager
+- Documentation: https://github.com/AnalyticsZ/analyticsz-gtm-template#readme
 - Product: https://analyticsz.com
 - Issues: use this repository's GitHub Issues tab
 
