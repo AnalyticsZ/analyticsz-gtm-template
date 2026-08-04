@@ -1,5 +1,5 @@
 homepage: "https://analyticsz.com"
-documentation: "https://analyticsz.com/developers/integrations/google-tag-manager"
+documentation: "https://github.com/AnalyticsZ/analyticsz-gtm-template#readme"
 versions:
   - sha: 9fa504edff33705d477b58197ad4dcf1ebe7a5b1
     changeNotes: Initial public release of the AnalyticsZ Browser Tracking Tag.
