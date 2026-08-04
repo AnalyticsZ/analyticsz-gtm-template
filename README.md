@@ -1,6 +1,6 @@
 # AnalyticsZ Browser Tracking Tag for Google Tag Manager
 
-The AnalyticsZ Browser Tracking Tag connects a Google Tag Manager Web container to an AnalyticsZ website. It loads the official AnalyticsZ browser tracker and verifies the installation with a website-specific token generated inside AnalyticsZ.
+The AnalyticsZ Browser Tracking Tag is the official Google Tag Manager template for connecting websites to AnalyticsZ AI Business Analyst. It securely installs the AnalyticsZ browser tracker and automatically verifies the connection using a website-specific verification token generated in AnalyticsZ.
 
 Current release: **1.2.0**
 
